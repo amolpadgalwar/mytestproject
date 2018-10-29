@@ -19,6 +19,7 @@ public class DateManipulation {
 		
 
 		System.out.println("This is my first deploy test");
+		System.out.println("This is my first deploy test");
 
 		SimpleDateFormat simple=new SimpleDateFormat("yyyy-mm-dd HH:mm:ss");
 		
